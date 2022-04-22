@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 const Navbar = () => {
   return (
-    <div className='navbar-dark bg-info'>
+    <div className='navbar-dark bg-info bg-gradient'>
       <div className='container'>
         <div className='row'>
           <div className='col-md-12'>
