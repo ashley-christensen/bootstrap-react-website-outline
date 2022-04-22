@@ -17,11 +17,12 @@ const Home = () => {
               <h3 className='main-heading'>My Work</h3>
               <div className='underline mx-auto'></div>
               <p>
-                Menu I'm baby af kinfolk single-origin coffee, mlkshk butcher
-                skateboard live-edge polaroid biodiesel plaid banh mi organic
-                microdosing etsy cray. Hella celiac chillwave PBR&B, swag iPhone
-                single-origin coffee tumeric thundercats viral dreamcatcher
-                bespoke quinoa.
+                Cliche cold-pressed everyday carry, put a bird on it ennui kogi
+                humblebrag lomo prism mustache. Mixtape plaid schlitz, pug
+                meditation freegan beard flexitarian portland cold-pressed
+                sustainable. Swag iPhone single-origin coffee tumeric
+                thundercats viral dreamcatcher bespoke quinoa. I'm baby unicorn
+                thundercats tumeric organic. Sriracha cray cornhole cold-pressed
               </p>
               <Link to='/about' className='btn btn-info shadow'>
                 Read More
